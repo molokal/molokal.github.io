@@ -1,18 +1,18 @@
 
 # SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: MOLOKAL
+description: MOLOKAL
 
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_username: molokal
+github_repo: molokal.github.io # the GitHub repo name for your project
+github_username: molokal
 theme_color: black
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
-baseurl: '/molokal_github_io'
+baseurl: '/'
 
 # Defaults
 
